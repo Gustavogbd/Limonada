@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Limonada</string>
+    <string name="quote_1">Toque no limoeiro para pegar o limão.</string>
+    <string name="quote_2">Toque várias vezes para expremer o limão</string>
+    <string name="quote_3">Toque na limonada para beber</string>
+    <string name="quote_4">Toque no copo para fazer outra limonada</string>
+    <string name="lemon_tree">Limoeiro</string>
+    <string name="lemon">Limão</string>
+    <string name="glass_of_lemonade">Copo de limonada</string>
+    <string name="empty_glass">Copo vazio</string>
 </resources>
